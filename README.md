@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SadeghMortezaei
+- 👋 Hi, I’m @Sadegh
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning c#, algorithm and English
 - 💞️ I’m looking to collaborate on ...
